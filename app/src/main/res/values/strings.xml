@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="button_width">122dp</dimen>
+    
+    <string name="app_name">Stopwatch</string>
+    <string name="start">СТАРТ</string>
+    <string name="stop">СТОП</string>
+    <string name="reset">СБРОСИТЬ</string>
+</resources>
